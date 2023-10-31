@@ -1,5 +1,5 @@
 /** @type {import('vite').UserConfig} */
 export default {
   //absolute path
-  base: "/",
+  base: '/394-portfolio/',
 };
