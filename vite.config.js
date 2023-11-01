@@ -9,7 +9,7 @@ export default {
         main: resolve(__dirname, 'index.html'),
         contact: resolve(__dirname, 'pages/contact.html'),
         essay: resolve(__dirname, 'pages/essay.html'),
-        essay: resolve(__dirname, 'pages/works.html'),
+        works: resolve(__dirname, 'pages/works.html'),
       },
     },
   }
