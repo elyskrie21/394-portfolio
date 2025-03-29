@@ -10,6 +10,7 @@ export default {
         contact: resolve(__dirname, 'pages/contact.html'),
         essay: resolve(__dirname, 'pages/essay.html'),
         works: resolve(__dirname, 'pages/works.html'),
+        seniordesign: resolve(__dirname, 'pages/seniordesign.html')
       },
     },
   }
